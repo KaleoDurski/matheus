@@ -1,0 +1,7 @@
+.center-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 30px;
+    background-color: azure;
+  }
